@@ -60,3 +60,4 @@ All test files live in the spec/_files directory. To create a new test:
   * Create a template file called `somename.mustache`
   * Create a JavaScript file containing the view called `somename.js`
   * Create a text file with the expected result called `somename.txt`
+  nicky
